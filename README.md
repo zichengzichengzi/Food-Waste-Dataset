@@ -16,21 +16,21 @@ A new food waste dataset(rgb+depth) "Food Waste 131" for food waste Semantic seg
 
 ```
 |-- <Food Waste 131>
-    |-- <json> //Store label files
-        0.json
-        1.json
-        ...
-    |-- <depth> //Store depth images
-        0.npy
-        1.npy
-        ...
-    |-- <rgb> //Store color images
+    |-- <Depth> //Store depth files
         0.png
         1.png
         ...
-    |-- <xml> //Store voc xml
-        0.xml
-        1.xml
+    |-- <HHA> //Store HHA images
+        0.png
+        1.png
+        ...
+    |-- <Label> //Store label images
+        0.png
+        1.png
+        ...
+    |-- <RGB> //Store rgb images
+        0.jpg
+        1.jpg
         ...
         
 ```
