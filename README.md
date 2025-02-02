@@ -10,7 +10,7 @@ A new food waste dataset(rgb+depth) "Food Waste 131" for food waste Semantic seg
 
 |Name|Address|
 |:---|:---|
-|Food Waste 131|[https://pan.baidu.com/s/1Cb4AULANrZSCKgsg10XFaQ password:9ucz](https://pan.baidu.com/s/1o7ZDwkd4oUFui5UZMmIvPw?pwd=pfav)|
+|Food Waste 131|[ https://pan.baidu.com/s/1-rqH9qDiiSoBpxXPGKSEIQ?pwd=2s4r ](https://pan.baidu.com/s/1-rqH9qDiiSoBpxXPGKSEIQ?pwd=2s4r)|
 
 ## Dataset structure
 
